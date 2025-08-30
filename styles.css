@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: #ffcb05;
+    width: 375px;
+    margin: auto;
+}
+
+img {
+    border-radius: 50%;
+    height: 200px;
+}
+
+#input {
+    height: 150px;
+    width: 80%;
+    border-radius: 6px;
+    border: none;
+    background-color: #E0E0E0;
+    color: #1a1a1a;
+    padding: 10px 10px;
+}
